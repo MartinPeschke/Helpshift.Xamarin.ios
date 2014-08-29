@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelpshiftSDK/libHelpshift.linkwith.cs">
+    <Files>
+      <File FileName="HelpshiftSDK/libHelpshift.linkwith.cs" Line="1" Column="1" />
+      <File FileName="HelpshiftSDK/ApiDefinition.cs" Line="1" Column="1" />
+      <File FileName="HelpshiftSDK/StructsAndEnums.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/martin/Projects/Helpshift.Xamarin.ios/HelpshiftSDK/HelpshiftSDK/ApiDefinition.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
